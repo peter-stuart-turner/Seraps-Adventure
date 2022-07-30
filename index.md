@@ -4,6 +4,9 @@ We are an adventure company based in the Okavango delta, near Maun in Botswana. 
 
 ### Gallery
 <img src="https://github.com/peter-stuart-turner/Seraps-Adventure/blob/gh-pages/beautiful-mokoros.jpg" > 
+<img src="https://github.com/peter-stuart-turner/Seraps-Adventure/blob/gh-pages/leopard-sunset.jpg" > 
+<img src="https://github.com/peter-stuart-turner/Seraps-Adventure/blob/gh-pages/mokoro-adventures-2.jpg" > 
+<img src="https://github.com/peter-stuart-turner/Seraps-Adventure/blob/gh-pages/mokoro-adventures.jpg" > 
 
 ### Contact Us
 
