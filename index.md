@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Seraps Adventures in the Okavango!
 
-You can use the [editor on GitHub](https://github.com/peter-stuart-turner/Seraps-Adventure/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are an adventure company based in the Okavango delta, near Maun in Botswana. We offer picturesque mokoro trips, active birdwatching, photography, cultural walks, and sunset experiences in the Okavango delta!
 
 ### Markdown
 
